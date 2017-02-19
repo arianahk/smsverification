@@ -1,5 +1,5 @@
 <?php 
-//if (!isset($HTTP_RAW_POST_DATA)) { header('location: https://www.lamdacs.com/');}
+
 header('Content-Type: text/html; charset=utf-8');
 header('Cache-Control: no-store, no-cache, must-revalidate'); 
 
